@@ -20,10 +20,10 @@
 
 <br clear="both">
 
-<h2 align="left">⚙️ Redes sociais</h2>
+<h2 align="left">🔗 Redes sociais</h2>
 
 ###
 
-<h4 align="left">• Linkedin...: <a href="#">encurtador.com.br/bMNV7</a><br>• YouTube...: encurtador.com.br/cmtA7<br>• Instagram: encurtador.com.br/pyBJ6<br>• Tiktok.......: encurtador.com.br/klvKV<br>• Facebook.: encurtador.com.br/uAFHX</h4>
+<h4 align="left">• Linkedin...: <a href="#">encurtador.com.br/bMNV7</a><br>• YouTube...: <a href="#">encurtador.com.br/cmtA7</a><br>• Instagram: <a href="#">encurtador.com.br/pyBJ6</a><br>• Tiktok.......: <a href="#">encurtador.com.br/klvKV</a><br>• Facebook.: <a href="#">encurtador.com.br/uAFHX</a></h4>
 
 ###
