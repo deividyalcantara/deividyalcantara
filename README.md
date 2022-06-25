@@ -24,6 +24,6 @@
 
 ###
 
-<h4 align="left">• Linkedin...: encurtador.com.br/bMNV7<br>• YouTube...: encurtador.com.br/cmtA7<br>• Instagram: encurtador.com.br/pyBJ6<br>• Tiktok.......: encurtador.com.br/klvKV<br>• Facebook.: encurtador.com.br/uAFHX</h4>
+<h4 align="left">• Linkedin...: <a href="encurtador.com.br/bMNV7">encurtador.com.br/bMNV7</a><br>• YouTube...: encurtador.com.br/cmtA7<br>• Instagram: encurtador.com.br/pyBJ6<br>• Tiktok.......: encurtador.com.br/klvKV<br>• Facebook.: encurtador.com.br/uAFHX</h4>
 
 ###
