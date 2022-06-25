@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🙋🏻‍♂️ Olá, vou me apresentar!</h2>
+<h2 align="left">🙋🏻‍♂️ Olá, eu sou Dêividy Alcântara!</h2>
 
 ###
 
@@ -17,4 +17,13 @@
 <h4 align="left">Delphi, C#, SQL, Python, Oracle, MySQL, SQL Server, SQLite, HTML, CSS, Firemonkey, VCL, Horse, Unigui, Adobe (Photoshop, XD, Illustrator), VSCode, Rad Studio, Visual Studio, BRModelo, Astah</h4>
 
 ###
-Profile Readme Generator
+
+<br clear="both">
+
+<h2 align="left">⚙️ Redes sociais</h2>
+
+###
+
+<h4 align="left">• Linkedin...: encurtador.com.br/bMNV7<br>• YouTube...: encurtador.com.br/cmtA7<br>• Instagram: encurtador.com.br/pyBJ6<br>• Tiktok.......: encurtador.com.br/klvKV<br>• Facebook.: encurtador.com.br/uAFHX</h4>
+
+###
