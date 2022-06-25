@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🙋🏻‍♂️ Olá, eu sou Dêividy Alcântara!</h2>
+<h2 align="left">🙋🏻‍♂️ Olá, vou me apresentar!</h2>
 
 ###
 
