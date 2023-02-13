@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Sou desenvolvedor  full stack 👨🏻‍💻 e apaixonado por tecnologias 💻. Tive uma longa experiência na área de tecnologia da informação 💾, trabalhando em universidade 📚, maior empresa do nordeste na área de lácteos 🐮, mas sempre tive o foco ⚠️ na programação desde o início do superior em Análise e Desenvolvimento de Sistema 🤓, lá em 2014. Após conclusão ⏳ participo de grupos, fóruns, blogs com intuído de ajudar novos desenvolvedores 🙋🏻‍♂️. E o git é um novo passo para compartilhar projetos 🖨️ que servirá como degrau 🪜para muitas pessoas #boracodar! 😊</h4>
+<h4 align="left">Sou desenvolvedor  full stack 👨🏻‍💻 e apaixonado por tecnologias 💻. Tive uma longa experiência na área de tecnologia da informação 💾, trabalhando em universidade 📚, maior empresa do nordeste na área de lácteos 🐮, mas sempre tive o foco ⚠️ na programação desde o início do superior em Análise e Desenvolvimento de Sistema 🤓, lá em 2014. Após conclusão ⏳ participo de grupos, fóruns, blogs com intuído de ajudar novos desenvolvedores 🙋🏻‍♂️. E o github é um novo passo para compartilhar projetos 🖨️ que servirá como degrau 🪜para muitas pessoas #boracodar! 😊</h4>
 
 ###
 
